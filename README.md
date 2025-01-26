@@ -22,7 +22,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla porttitor mattis 
 # Gameplay
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla porttitor mattis mauris, quis egestas odio hendrerit vitae. Vivamus dignissim, elit non imperdiet accumsan, est risus maximus velit, quis efficitur augue dolor at tortor. Mauris vitae libero in nulla laoreet commodo. Ut sodales cursus ultrices. Phasellus sit amet hendrerit eros. Duis bibendum posuere libero sit amet commodo. Curabitur interdum turpis pulvinar, lobortis risus sed, ornare leo. Sed ut elit convallis, facilisis velit a, aliquam magna. Mauris feugiat orci ut enim elementum, non eleifend tellus finibus. Maecenas vitae dictum ipsum.
 
-https://www.linkedin.com/in/ethan-corchero-mart%C3%ADn-27a80125a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 # Team
 ## Developers

@@ -22,12 +22,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla porttitor mattis 
 # Gameplay
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla porttitor mattis mauris, quis egestas odio hendrerit vitae. Vivamus dignissim, elit non imperdiet accumsan, est risus maximus velit, quis efficitur augue dolor at tortor. Mauris vitae libero in nulla laoreet commodo. Ut sodales cursus ultrices. Phasellus sit amet hendrerit eros. Duis bibendum posuere libero sit amet commodo. Curabitur interdum turpis pulvinar, lobortis risus sed, ornare leo. Sed ut elit convallis, facilisis velit a, aliquam magna. Mauris feugiat orci ut enim elementum, non eleifend tellus finibus. Maecenas vitae dictum ipsum.
 
+https://www.linkedin.com/in/ethan-corchero-mart%C3%ADn-27a80125a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
 # Team
 ## Developers
 | **Emote**   | **Nombre**   | **Correo**                                     | **LinkedIn**                                  | **Portafolio**                                   | **Rol**              |
 |-------------|--------------|-----------------------------------------------|-----------------------------------------------|--------------------------------------------------|----------------------|
-| 🦊          | Ethan Corchero  | [etethan.corchero25@gmail.com](mailto:etethan.corchero25@gmail.com) | [https://www.linkedin.com/in/ethanwhite-dev/](https://www.linkedin.com/in/ethanwhite-dev/) | [https://github.com/EthanWhite](https://github.com/EthanWhite) | Frontend Developer   |
-| 🐉          | David Pardo  | [daparpie@hotmail.com](mailto:daparpie@hotmail.com) | [https://www.linkedin.com/in/david-pardo](https://www.linkedin.com/in/david-pardo-2863a322b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [https://github.com/DavilGreen](https://github.com/Crosvy111) | Project Manager    |
+| 🦊          | Ethan Corchero  | [etethan.corchero25@gmail.com](mailto:etethan.corchero25@gmail.com) | [https://www.linkedin.com/in/ethan-corchero-mart](https://www.linkedin.com/in/ethan-corchero-mart%C3%ADn-27a80125a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [https://github.com/Arkian25](https://gitlab.com/Arkian25) | Back Developer   |
+| 🐉          | David Pardo  | [daparpie@hotmail.com](mailto:daparpie@hotmail.com) | [https://www.linkedin.com/in/david-pardo](https://www.linkedin.com/in/david-pardo-2863a322b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [https://github.com/Crosvy111](https://github.com/Crosvy111) | Project Manager    |
 | 🦉          | Pol Knight   | [pol.knight.dev@gmail.com](mailto:pol.knight.dev@gmail.com) | [https://www.linkedin.com/in/pol-knight/](https://www.linkedin.com/in/pol-knight/) | [https://github.com/PolKnight](https://github.com/PolKnight) | Fullstack Developer  |
 | 🐢          | Arnau Stone  | [arnaustone.tech@gmail.com](mailto:arnaustone.tech@gmail.com) | [https://www.linkedin.com/in/arnau-stone/](https://www.linkedin.com/in/arnau-stone/) | [https://github.com/ArnauStone](https://github.com/ArnauStone) | DevOps Engineer      |
 

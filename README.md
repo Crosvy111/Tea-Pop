@@ -5,8 +5,9 @@
 ![Screenshot from 2025-01-26 15-53-12](https://github.com/user-attachments/assets/c3d3eea2-fba7-485a-b984-a5b60494a89b)
 
 # About
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla porttitor mattis mauris, quis egestas odio hendrerit vitae. Vivamus dignissim, elit non imperdiet accumsan, est risus maximus velit, quis efficitur augue dolor at tortor. Mauris vitae libero in nulla laoreet commodo. Ut sodales cursus ultrices. Phasellus sit amet hendrerit eros. Duis bibendum posuere libero sit amet commodo. Curabitur interdum turpis pulvinar, lobortis risus sed, ornare leo. Sed ut elit convallis, facilisis velit a, aliquam magna. Mauris feugiat orci ut enim elementum, non eleifend tellus finibus. Maecenas vitae dictum ipsum.
-
+TEAPOP is a 2D visual novel-style game that simulates conversations.
+It is in your hands to make the important choices.
+It features multiple endings and mini-games that will keep you hooked.
 # Tags
 <p align="center">
    <img src="https://img.shields.io/badge/Novela_Visual-FF6347?style=for-the-badge" alt="Novela Visual">
@@ -18,9 +19,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla porttitor mattis 
    <img src="https://img.shields.io/badge/Finales_Multiples-8A2BE2?style=for-the-badge" alt="Finales Multiples">
    <img src="https://img.shields.io/badge/Minijuegos-FF1493?style=for-the-badge" alt="Minijuegos">
 </p>
-
-# Gameplay
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla porttitor mattis mauris, quis egestas odio hendrerit vitae. Vivamus dignissim, elit non imperdiet accumsan, est risus maximus velit, quis efficitur augue dolor at tortor. Mauris vitae libero in nulla laoreet commodo. Ut sodales cursus ultrices. Phasellus sit amet hendrerit eros. Duis bibendum posuere libero sit amet commodo. Curabitur interdum turpis pulvinar, lobortis risus sed, ornare leo. Sed ut elit convallis, facilisis velit a, aliquam magna. Mauris feugiat orci ut enim elementum, non eleifend tellus finibus. Maecenas vitae dictum ipsum.
 
 
 # Team
